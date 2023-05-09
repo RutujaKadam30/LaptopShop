@@ -8,6 +8,14 @@ Technologies used:
  3. Node js : version 12.11.1
  4. IDE : Eclipse and VS Code
  5. Database : Mysql 
+
+
+
+
+
+
+
+
 Modules in project:
 1.Admin module
 2.User Module
